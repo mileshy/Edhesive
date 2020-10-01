@@ -10,6 +10,6 @@ public class U2_L1_Activity_One{
       System.out.println("What is your age?");
       String age = scan.nextLine();
       System.out.println( name + " is " + age + " years old.");
-
+      
   }
 }
